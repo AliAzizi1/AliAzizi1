@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliAzizi1
+- 👋 Hi, I’m Ali Azizi
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Macine Learning, Web Design And programming
 - 💞️ I'm currently looking for collaboration in web programming
