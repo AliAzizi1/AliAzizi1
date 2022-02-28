@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Azizi
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Macine Learning, Web Design And programming
+- 🌱 I’m currently learning Machine Learning, Web Design And programming
 - 💞️ I'm currently looking for collaboration in web programming
 - 📫 How to reach me "Saeedazizi4435@yahoo.com"
 
