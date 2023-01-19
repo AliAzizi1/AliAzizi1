@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali Azizi;
 - 👀 I’m interested in Machine Learning;
-- 🌱 I’m currently learning Machine Learning, Front End Developer;
-- 💞️ I'm currently looking for collaboration in Front End Developer;
+- 🌱 I’m currently learning Machine Learning, Data Science;
+- 💞️ I'm currently looking for collaboration in Machine Learning;
 - 📫 How to reach me "aliazizi7251@gmail.com";
 
 <!---
