@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> Welcome to my page!  
-I'm Ali — a passionate Fullstack Developer working with Java (Spring Boot) & React.
+<p>Welcome to my page! </br> I'm Ali — a passionate Fullstack Developer working with Java (Spring Boot) & React.
  </p>
 
 <h3>Things I code with</h3>
