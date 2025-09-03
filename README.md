@@ -2,7 +2,7 @@
 
 
 <p>
- Welcome to my page! </br> I'm Ali — a passionate Full Stack Developer working with Java (Spring Boot) & React.
+ Welcome to my page! </br> I'm Ali — a passionate Full Stack Developer working with Java6 (Spring Boot) & React.
  </p>
 
 <h3>Things I code with</h3>
