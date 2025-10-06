@@ -15,6 +15,10 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-00BFFF?style=flat-square&logo=zustand&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=rest-api&logoColor=white" />
+
 
   <!-- Backend 
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
