@@ -2,7 +2,7 @@
 
 
 <p>
- Welcome to my page! </br> I'm Ali — a passionate Product Designer & Front End Developer ( next - react ).
+ Welcome to my page! </br> I'm Ali — Product Designer & Front‑End Developer (Next.js, React) passionate about building great user experiences.
  </p>
 
 <h3>Things I code with</h3>
